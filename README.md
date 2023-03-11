@@ -32,5 +32,8 @@ unable to fix this.
 3. If the list contains oyente then it has been installed
 4. To run oyente run command:
       docker run -i -t luongnguyen/oyente
+5. To evaluate the greeter contract inside the container, run:
+      cd /oyente/oyente
+      python oyente.py -s greeter.sol
 
 # Osiris
