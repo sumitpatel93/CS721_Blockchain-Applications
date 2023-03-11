@@ -2,14 +2,14 @@
 
 # Installing-Tools
 
-#Slither 
+# Slither 
 1. Install Slither using the following command in Terminal:
       pip3 install slither-analyzer
 2.After installation is complete, you can check if Slither is properly installed by running the following command:
       slither --help
       
 
-#mythirl 
+# mythirl 
 
 1. Installed Rust using the following command: 
         curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -20,10 +20,10 @@
 unable to fix this. 
 
 
-#smartcheck
+# smartcheck
 
 
 
 # Oyente
 
-#Osiris
+# Osiris
