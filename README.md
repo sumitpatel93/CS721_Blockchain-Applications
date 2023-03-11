@@ -1,3 +1,3 @@
 # CS721_Blockchain-Applications
 
-# How to install Slitherin : pip3 install slither-analyzer
+# How to install Slither : pip3 install slither-analyzer
