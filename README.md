@@ -33,7 +33,7 @@ unable to fix this.
 4. To run oyente run command:
       docker run -i -t luongnguyen/oyente
 5. To evaluate the greeter contract inside the container, run:
-      cd /oyente/oyente
-      \n python oyente.py -s greeter.sol
+      1. cd /oyente/oyente
+      2. python oyente.py -s greeter.sol
 
 # Osiris
