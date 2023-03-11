@@ -5,7 +5,7 @@
 # Slither 
 1. Install Slither using the following command in Terminal:
       pip3 install slither-analyzer
-2.After installation is complete, you can check if Slither is properly installed by running the following command:
+2. After installation is complete, you can check if Slither is properly installed by running the following command:
       slither --help
       
 
