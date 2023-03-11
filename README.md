@@ -34,6 +34,6 @@ unable to fix this.
       docker run -i -t luongnguyen/oyente
 5. To evaluate the greeter contract inside the container, run:
       cd /oyente/oyente
-      python oyente.py -s greeter.sol
+      \n python oyente.py -s greeter.sol
 
 # Osiris
