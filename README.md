@@ -9,7 +9,7 @@
       slither --help
       
 
-# mythirl 
+# mythril 
 
 1. Installed Rust using the following command: 
         curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -21,7 +21,8 @@ unable to fix this.
 
 
 # smartcheck
-
+1. Install smartcheck using the following command in Terminal:
+          docker pull deepsecurity/smartcheck-scan-action
 
 
 # Oyente
