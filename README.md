@@ -25,5 +25,12 @@ unable to fix this.
 
 
 # Oyente
+1. Install Oyente using the following command in Terminal after running docker in background:
+      docker pull luongnguyen/oyente 
+2. Check if oyente is installed or not by using the command:
+      docker ps -a 
+3. If the list contains oyente then it has been installed
+4. To run oyente run command:
+      docker run -i -t luongnguyen/oyente
 
 # Osiris
