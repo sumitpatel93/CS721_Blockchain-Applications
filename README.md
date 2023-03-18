@@ -44,3 +44,5 @@ Scanning contract gives the following result
    `python osiris/osiris.py -s datasets/SimpleDAO/SimpleDAO_0.4.19.sol`   
 3. Evaluate a local solidity contract
    `python osiris.py -s <contract filename>`
+
+   <img width="808" alt="Screenshot 2023-03-18 at 7 25 00 PM" src="https://user-images.githubusercontent.com/15656052/226110484-c9e36469-ca80-4668-8316-dfd96fbb1e3e.png">
