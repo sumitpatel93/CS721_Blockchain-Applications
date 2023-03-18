@@ -38,3 +38,9 @@ Scanning contract gives the following result
       
 
 ## Osiris
+1. Install osiris via docker 
+   `docker pull christoftorres/osiris && docker run -i -t christoftorres/osiris`
+2. Test the contract via following command 
+   `python osiris/osiris.py -s datasets/SimpleDAO/SimpleDAO_0.4.19.sol`   
+3. Evaluate a local solidity contract
+   `python osiris.py -s <contract filename>`
