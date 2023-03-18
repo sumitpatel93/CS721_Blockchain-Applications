@@ -11,14 +11,16 @@
 
 # mythril 
 
-1. Installed Rust using the following command: 
-        curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-2. Then installed maturin 
-        cargo install maturin 
-3. pip3 install maturin 
-   Error: ERROR: Could not build wheels for blake2b-py, which is required to install pyproject.toml-based projects
-unable to fix this. 
+1. Install mythril via docker `docker pull mythril/myth`
+2. Scan contract file via command `docker run -v $(pwd):/tmp mythril/myth analyze /tmp/contract.sol`
 
+Scanning contract gives the following result
+<img width="1395" alt="Screenshot 2023-03-18 at 6 33 28 PM" src="https://user-images.githubusercontent.com/15656052/226108012-07b9fa71-e4f6-4740-9c58-ef9fb43dff23.png">
+
+
+** Assuming you are in currect directory where the contract code is located , for example, above command is run from /Documents/contract directory.
+
+** Allow the file access settings to docker container for current directory.
 
 # smartcheck
 1. Install smartcheck using the following command in Terminal:
