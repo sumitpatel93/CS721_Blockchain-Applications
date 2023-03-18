@@ -1,15 +1,15 @@
-# CS721_Blockchain-Applications
+# Installation steps for smart contract tools.
 
-# Installing-Tools
 
-# Slither 
+
+## Slither 
 1. Install Slither using the following command in Terminal:
-      pip3 install slither-analyzer
+      `pip3 install slither-analyzer`
 2. After installation is complete, you can check if Slither is properly installed by running the following command:
-      slither --help
+      `slither --help`
       
 
-# mythril 
+## Mythril 
 
 1. Install mythril via docker `docker pull mythril/myth`
 2. Scan contract file via command `docker run -v $(pwd):/tmp mythril/myth analyze /tmp/contract.sol`
@@ -22,19 +22,19 @@ Scanning contract gives the following result
 
 ** Allow the file access settings to docker container for current directory.
 
-# smartcheck
+## Smartcheck
 1. Install smartcheck using the following command in Terminal:
-          docker pull deepsecurity/smartcheck-scan-action
+          `docker pull deepsecurity/smartcheck-scan-action`
 
 
-# Oyente
+## Oyente
 1. Install Oyente using the following command in Terminal after running docker in background:
-      docker pull luongnguyen/oyente 
+      `docker pull luongnguyen/oyente`
 2. Check if oyente is installed or not by using the command:
-      docker ps -a 
+      `docker ps -a`
 3. If the list contains oyente then it has been installed
 4. To run oyente run command:
-      docker run -i -t luongnguyen/oyente
+      `docker run -i -t luongnguyen/oyente`
       
 
-# Osiris
+## Osiris
