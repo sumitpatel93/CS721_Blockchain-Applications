@@ -1,4 +1,4 @@
-Contract_Address,Bug_Type_1,Bug_Type_2,Bug_Type_3,
+Contract_Address,Bug_Type_1,Bug_Type_2,Bug_Type_3,Analysis,
 0x00685230359bdb9e16704e1d3918b553e9a015e2_ext.sol,RENT,
 0x03358425ada4620246dd703dc1f2246b8e148d22_ext.sol,LE,RENT,UE,
 0x0689418b68122149a737a7cc7a49b2ad7c3049cc_ext.sol,RENT,TimeM,
