@@ -60,3 +60,10 @@ We have used it to find some vulnerabilties in our list of contract
 2. solhint --version ( verify that it was installed correctly )
 3. solhint --init ( First initialize a configuration file, if you don’t have one )
 4. solhint 'contracts/**/*.sol' (to lint all files inside contracts directory)
+
+
+
+
+## Results :
+After running slither for contracts to check Reentrancy vulnerability we manually checked it and marked 1 when the slither result is true and marked 0 when slither result is false.
+Link: https://docs.google.com/spreadsheets/d/1JK0YLFXiWtAPtO1pG4Csj1s-Lg6DdedMdEb4aV3Rfn0/edit?usp=sharing
