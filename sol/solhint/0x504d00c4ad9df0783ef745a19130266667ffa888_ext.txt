@@ -1,0 +1,37 @@
+TAP version 13
+1..1
+not ok 1 - /Users/apple/Documents/WORK/CS721_Blockchain-Applications/sol/0x504d00c4ad9df0783ef745a19130266667ffa888_ext.sol
+  ---
+  message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+  severity: error
+  data:
+    line: 1259
+    column: 9
+    ruleId: reentrancy
+  messages:
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 1275
+        column: 9
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 1276
+        column: 9
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 1277
+        column: 9
+        ruleId: reentrancy
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 1523
+        column: 5
+        ruleId: func-visibility
+  ...
+

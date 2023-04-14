@@ -1,0 +1,12 @@
+TAP version 13
+1..1
+not ok 1 - /Users/apple/Documents/WORK/CS721_Blockchain-Applications/sol/0x70d28b8d6c19f3074a3edf3033f0defa7a4ce4df_ext.sol
+  ---
+  message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+  severity: error
+  data:
+    line: 530
+    column: 9
+    ruleId: reentrancy
+  ...
+

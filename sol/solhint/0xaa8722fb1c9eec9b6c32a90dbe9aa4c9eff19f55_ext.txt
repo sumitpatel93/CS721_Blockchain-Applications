@@ -1,0 +1,105 @@
+TAP version 13
+1..1
+not ok 1 - /Users/apple/Documents/WORK/CS721_Blockchain-Applications/sol/0xaa8722fb1c9eec9b6c32a90dbe9aa4c9eff19f55_ext.sol
+  ---
+  message: >-
+    Explicitly mark visibility in function (Set ignoreConstructors to true if
+    using solidity >=0.7.0)
+  severity: warning
+  data:
+    line: 33
+    column: 5
+    ruleId: func-visibility
+  messages:
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 44
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 57
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 77
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 96
+        column: 5
+        ruleId: func-visibility
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 111
+        column: 9
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 112
+        column: 9
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 114
+        column: 9
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 115
+        column: 9
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 116
+        column: 9
+        ruleId: reentrancy
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 123
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 134
+        column: 5
+        ruleId: func-visibility
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 154
+        column: 9
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 155
+        column: 9
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 156
+        column: 9
+        ruleId: reentrancy
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 159
+        column: 5
+        ruleId: func-visibility
+  ...
+

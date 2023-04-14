@@ -1,0 +1,55 @@
+TAP version 13
+1..1
+not ok 1 - /Users/apple/Documents/WORK/CS721_Blockchain-Applications/sol/0x723c7bca7ed11ab6a18b84c1ff5b979fec00f54e_ext.sol
+  ---
+  message: Avoid to use tx.origin
+  severity: error
+  data:
+    line: 236
+    column: 31
+    ruleId: avoid-tx-origin
+  messages:
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 1368
+        column: 9
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 1384
+        column: 9
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 1388
+        column: 9
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 1389
+        column: 9
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 1390
+        column: 9
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 1391
+        column: 9
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 1530
+        column: 13
+        ruleId: reentrancy
+  ...
+

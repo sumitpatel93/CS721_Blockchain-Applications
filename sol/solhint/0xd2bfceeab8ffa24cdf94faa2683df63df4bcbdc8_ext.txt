@@ -1,0 +1,12 @@
+TAP version 13
+1..1
+not ok 1 - /Users/apple/Documents/WORK/CS721_Blockchain-Applications/sol/0xd2bfceeab8ffa24cdf94faa2683df63df4bcbdc8_ext.sol
+  ---
+  message: Avoid to use tx.origin
+  severity: error
+  data:
+    line: 76
+    column: 30
+    ruleId: avoid-tx-origin
+  ...
+

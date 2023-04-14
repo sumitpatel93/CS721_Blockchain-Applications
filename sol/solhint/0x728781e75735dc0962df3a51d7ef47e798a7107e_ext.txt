@@ -1,0 +1,237 @@
+TAP version 13
+1..1
+ok 1 - /Users/apple/Documents/WORK/CS721_Blockchain-Applications/sol/0x728781e75735dc0962df3a51d7ef47e798a7107e_ext.sol
+  ---
+  message: >-
+    Explicitly mark visibility in function (Set ignoreConstructors to true if
+    using solidity >=0.7.0)
+  severity: warning
+  data:
+    line: 39
+    column: 5
+    ruleId: func-visibility
+  messages:
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 58
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 59
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 60
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 61
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 62
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 63
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 75
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 86
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 99
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 103
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 107
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 114
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 170
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 184
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 196
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 207
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 282
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 334
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 343
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 353
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 363
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 372
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 389
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 396
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 430
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 454
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 474
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 484
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 494
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 503
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 519
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 542
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 553
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 565
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 598
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 615
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 629
+        column: 5
+        ruleId: func-visibility
+  ...
+

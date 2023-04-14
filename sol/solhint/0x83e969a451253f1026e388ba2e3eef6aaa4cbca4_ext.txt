@@ -1,0 +1,12 @@
+TAP version 13
+1..1
+ok 1 - /Users/apple/Documents/WORK/CS721_Blockchain-Applications/sol/0x83e969a451253f1026e388ba2e3eef6aaa4cbca4_ext.sol
+  ---
+  message: Explicitly mark visibility in function
+  severity: warning
+  data:
+    line: 95
+    column: 5
+    ruleId: func-visibility
+  ...
+

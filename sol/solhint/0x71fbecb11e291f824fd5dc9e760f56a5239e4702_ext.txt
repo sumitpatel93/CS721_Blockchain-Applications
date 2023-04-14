@@ -1,0 +1,75 @@
+TAP version 13
+1..1
+ok 1 - /Users/apple/Documents/WORK/CS721_Blockchain-Applications/sol/0x71fbecb11e291f824fd5dc9e760f56a5239e4702_ext.sol
+  ---
+  message: >-
+    Explicitly mark visibility in function (Set ignoreConstructors to true if
+    using solidity >=0.7.0)
+  severity: warning
+  data:
+    line: 60
+    column: 5
+    ruleId: func-visibility
+  messages:
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 88
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 136
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 160
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 183
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 208
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 221
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 250
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 260
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 270
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 309
+        column: 5
+        ruleId: func-visibility
+  ...
+

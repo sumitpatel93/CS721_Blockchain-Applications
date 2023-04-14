@@ -1,0 +1,12 @@
+TAP version 13
+1..1
+not ok 1 - /Users/apple/Documents/WORK/CS721_Blockchain-Applications/sol/0x03347abb58cc3071fdbba7f7bd7cca03c8e04229_ext.sol
+  ---
+  message: Use "selfdestruct" instead of deprecated "suicide"
+  severity: error
+  data:
+    line: 129
+    column: 10
+    ruleId: avoid-suicide
+  ...
+

@@ -1,0 +1,4 @@
+TAP version 13
+1..1
+ok 1 - /Users/apple/Documents/WORK/CS721_Blockchain-Applications/sol/0xb45d7bc4cebcab98ad09babdf8c818b2292b672c_ext.sol
+
