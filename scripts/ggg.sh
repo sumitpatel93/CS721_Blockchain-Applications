@@ -1,4 +1,3 @@
-#!/bin/bash
 
 # It runs the main.py for all the solidity files and generates the output in a csv file named output.csv
 #!/bin/bash
