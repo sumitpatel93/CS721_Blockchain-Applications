@@ -1,0 +1,14 @@
+TAP version 13
+1..1
+ok 1 - /Users/apple/Documents/WORK/CS721_Blockchain-Applications/sol/0x25df2edc10a16f05e579d127a902cac6fdff940e_ext.sol
+  ---
+  message: >-
+    Explicitly mark visibility in function (Set ignoreConstructors to true if
+    using solidity >=0.7.0)
+  severity: warning
+  data:
+    line: 127
+    column: 5
+    ruleId: func-visibility
+  ...
+

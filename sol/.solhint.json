@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "avoid-suicide": "error",
+    "reentrancy" : "error",
+    "avoid-tx-origin" : "error",
+    "func-visibility" : "warn"
+  }
+}
