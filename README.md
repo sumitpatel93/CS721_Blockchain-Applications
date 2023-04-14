@@ -46,3 +46,17 @@ Scanning contract gives the following result
    `python osiris.py -s <contract filename>`
 
    <img width="808" alt="Screenshot 2023-03-18 at 7 25 00 PM" src="https://user-images.githubusercontent.com/15656052/226110484-c9e36469-ca80-4668-8316-dfd96fbb1e3e.png">
+
+
+## Solhint
+This is an open source project for linting Solidity code. This project provides both Security and Style Guide validations.
+We have used it to find some vulnerabilties in our list of contract 
+- re entrancy
+- avoid-tx-origin
+( list of available rules for solhint - https://protofire.github.io/solhint/docs/rules.html )
+
+### How to install and run solhint
+1. npm install -g solhint
+2. solhint --version ( verify that it was installed correctly )
+3. solhint --init ( First initialize a configuration file, if you don’t have one )
+4. solhint 'contracts/**/*.sol' (to lint all files inside contracts directory)
