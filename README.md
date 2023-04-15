@@ -65,5 +65,7 @@ We have used it to find some vulnerabilties in our list of contract
 
 
 ## Results :
-After running slither for contracts to check Reentrancy vulnerability we manually checked it and marked 1 when the slither result is true and marked 0 when slither result is false.
+After running 'slither' for contracts to check 'Reentrancy vulnerability' and 'smartcheck' for 'Locked ether vulnerability' we manually checked it and marked 1 when the tool result is true and marked 0 when tool result is false.
+1.In sheet1 we have results of slither analysis for reentrancy.
+2.In sheet2 we have results of smartcheck for locked ether.
 Link: https://docs.google.com/spreadsheets/d/1JK0YLFXiWtAPtO1pG4Csj1s-Lg6DdedMdEb4aV3Rfn0/edit?usp=sharing
