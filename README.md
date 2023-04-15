@@ -94,3 +94,6 @@ After running 'slither' for contracts to check 'Reentrancy vulnerability' and 's
 1.In sheet1 we have results of slither analysis for reentrancy.
 2.In sheet2 we have results of smartcheck for locked ether.
 Link: https://docs.google.com/spreadsheets/d/1JK0YLFXiWtAPtO1pG4Csj1s-Lg6DdedMdEb4aV3Rfn0/edit?usp=sharing
+
+## Reference :
+@sujeetc (Sujeet Chauhan) scrawlD 
