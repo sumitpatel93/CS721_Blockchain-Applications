@@ -77,6 +77,7 @@ We have used it to find some vulnerabilties in our list of contract
    * ExtFromEtherScan.py is used to extract all(9252) the solidity files from etherscan website in json format
    * effective.py is used to find the false positive percentage and accuracy of the results analysed
    * extract_locked_ether_vul.py is used to extract the report for Locked_ether vulnerability only out of all the vulnerabilities produced using smartcheck
+   * extract_rent_from_solhint.py is used to extract the the report for reentrancy along with line no. and column no.
    * filterContractAddress.py is used to extract top 500 smart contracts from the pool on the basis of ether value
    * json_to_sol.py is used to convert all the downloades smart contracts in json format to .sol format
    * main.py is used to create .sol.json for all the solidity files to use in run_slither.sh 
