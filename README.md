@@ -60,15 +60,26 @@ We have used it to find some vulnerabilties in our list of contract
 4. solhint 'contracts/**/*.sol' (to lint all files inside contracts directory)
 
 
+
+
 # Vulnerabilities Used :
 
 ## Reentrancy : 
-      In the reentrancy attack (a.k.a. recursive call attack), a malicious contract calls back into the calling contract before the first invocation of the function is finished. This may cause the different invocations of the function to interact in undesirable ways.It is called as RENT.
+   In the reentrancy attack (a.k.a. recursive call attack), a malicious contract calls back into the calling contract before the first invocation of the function is finished. This may cause the different invocations of the function to interact in undesirable ways.It is called as RENT.
 
 ## Locked_Ether : 
-      The locked Ether bug occurs in contracts that can receive ether but do not allow users to extract ether from them (nor to destroy them). In the smartcheck tool it was named as SOLIDITY_LOCKED_MONEY.
+   The locked Ether bug occurs in contracts that can receive ether but do not allow users to extract ether from them (nor to destroy them). In the smartcheck tool it was named as SOLIDITY_LOCKED_MONEY.
 
-## Results :
+
+# Scripts Directory :
+   This directory contains all the scripts used for analysing the vulnerabilities
+   * dhsgd
+   
+
+
+
+
+# Results :
 After running 'slither' for contracts to check 'Reentrancy vulnerability' and 'smartcheck' for 'Locked ether vulnerability' we manually checked it and marked 1 when the tool result is true and marked 0 when tool result is false.
 1.In sheet1 we have results of slither analysis for reentrancy.
 2.In sheet2 we have results of smartcheck for locked ether.
