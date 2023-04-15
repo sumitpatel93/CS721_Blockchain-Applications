@@ -73,8 +73,9 @@ We have used it to find some vulnerabilties in our list of contract
 
 ## Scripts Directory :
    This directory contains all the scripts used for analysing the vulnerabilities
+   * parser contains the necessary files to run main.py
    * ExtFromEtherScan.py is used to extract all(9252) the solidity files from etherscan website in json format
-   * effective.py is used to 
+   * effective.py is used to find the false positive percentage and accuracy of the results analysed
    * extract_locked_ether_vul.py is used to extract the report for Locked_ether vulnerability only out of all the vulnerabilities produced using smartcheck
    * filterContractAddress.py is used to extract top 500 smart contracts from the pool on the basis of ether value
    * json_to_sol.py is used to convert all the downloades smart contracts in json format to .sol format
