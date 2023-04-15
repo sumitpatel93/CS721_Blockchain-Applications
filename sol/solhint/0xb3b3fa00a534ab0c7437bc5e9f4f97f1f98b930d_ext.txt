@@ -1,0 +1,55 @@
+TAP version 13
+1..1
+not ok 1 - /Users/apple/Documents/WORK/CS721_Blockchain-Applications/sol/0xb3b3fa00a534ab0c7437bc5e9f4f97f1f98b930d_ext.sol
+  ---
+  message: Explicitly mark visibility in function
+  severity: warning
+  data:
+    line: 96
+    column: 5
+    ruleId: func-visibility
+  messages:
+    - message: Avoid to use tx.origin
+      severity: error
+      data:
+        line: 108
+        column: 21
+        ruleId: avoid-tx-origin
+    - message: Avoid to use tx.origin
+      severity: error
+      data:
+        line: 147
+        column: 17
+        ruleId: avoid-tx-origin
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 562
+        column: 10
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 587
+        column: 17
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 599
+        column: 13
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 600
+        column: 13
+        ruleId: reentrancy
+    - message: Possible reentrancy vulnerabilities. Avoid state changes after transfer.
+      severity: error
+      data:
+        line: 601
+        column: 13
+        ruleId: reentrancy
+  ...
+

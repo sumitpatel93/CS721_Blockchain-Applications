@@ -1,0 +1,30 @@
+TAP version 13
+1..1
+not ok 1 - /Users/apple/Documents/WORK/CS721_Blockchain-Applications/sol/0x6f945c83f9ddc4ebd9cad21e7c08cc3c82a21c90_ext.sol
+  ---
+  message: >-
+    Parse error: extraneous input '=' expecting {'from', '{', '}', '(', 'error',
+    'for', 'function', 'address', 'calldata', 'if', 'return', 'revert', 'byte',
+    'let', 'switch', 'callback', BooleanLiteral, DecimalNumber, HexNumber,
+    HexLiteralFragment, 'break', 'continue', 'leave', 'payable', 'constructor',
+    'receive', Identifier, StringLiteralFragment}
+  severity: error
+  data:
+    line: 107
+    column: 12
+    ruleId: ''
+  messages:
+    - message: >-
+        Parse error: extraneous input '=' expecting {'from', '{', '}', '(',
+        'error', 'for', 'function', 'address', 'calldata', 'if', 'return',
+        'revert', 'byte', 'let', 'switch', 'callback', BooleanLiteral,
+        DecimalNumber, HexNumber, HexLiteralFragment, 'break', 'continue',
+        'leave', 'payable', 'constructor', 'receive', Identifier,
+        StringLiteralFragment}
+      severity: error
+      data:
+        line: 185
+        column: 12
+        ruleId: ''
+  ...
+

@@ -1,0 +1,25 @@
+TAP version 13
+1..1
+not ok 1 - /Users/apple/Documents/WORK/CS721_Blockchain-Applications/sol/0x511724936c6f550be63e940ebdd4800f095ea12c_ext.sol
+  ---
+  message: Avoid to use tx.origin
+  severity: error
+  data:
+    line: 82
+    column: 30
+    ruleId: avoid-tx-origin
+  messages:
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 612
+        column: 5
+        ruleId: func-visibility
+    - message: Explicitly mark visibility in function
+      severity: warning
+      data:
+        line: 619
+        column: 5
+        ruleId: func-visibility
+  ...
+
